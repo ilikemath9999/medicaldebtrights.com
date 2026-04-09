@@ -1,0 +1,25 @@
+# Medical Debt Rights -- Protection & Relief [2026] -- Medicaldebtrights
+> Know your medical debt rights. New credit reporting rules, charity care, negotiation, and bankruptcy options for medical bills. 2026 g...
+
+## About
+medicaldebtrights.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Charity Care Requirements for Hospitals -- Medicaldebtrights: https://medicaldebtrights.com/charity-care-requirements.html
+- Medical Debt Collection Limits -- Medicaldebtrights: https://medicaldebtrights.com/collection-limits.html
+- Medical Debt Credit Reporting Rules -- Medicaldebtrights: https://medicaldebtrights.com/credit-reporting-rules.html
+- Disputing Medical Bills -- Medicaldebtrights: https://medicaldebtrights.com/dispute-process.html
+- Fair Medical Billing Practices -- Medicaldebtrights: https://medicaldebtrights.com/fair-billing.html
+- Medical Financial Assistance Programs -- Medicaldebtrights: https://medicaldebtrights.com/financial-assistance.html
+- Medical Debt Rights -- Protection & Relief [2026] -- Medicaldebtrights: https://medicaldebtrights.com/
+- Insurance Appeal Rights for Medical Bills -- Medicaldebtrights: https://medicaldebtrights.com/insurance-appeals.html
+- State Medical Debt Protections -- Medicaldebtrights: https://medicaldebtrights.com/state-protections.html
+- Surprise Medical Billing Protections -- Medicaldebtrights: https://medicaldebtrights.com/surprise-billing.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
