@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Charity Care Requirements for Hospitals -- Medicaldebtrights
+## Charity Care Requirements for Hospitals - Medicaldebtrights
 Source: https://medicaldebtrights.com/charity-care-requirements.html
 
 Charity Care Requirements for Hospitals
@@ -14,6 +14,8 @@ Charity Care Requirements for Hospitals
 What Nonprofit Hospitals Must Provide
 
 ← Back to medicaldebtrights.com
+
+Home›Charity Care Requirements for Hospitals | medicaldebtrights.com›Charity Care Requirements for Hospitals
 
 ACA Requirements for Nonprofit Hospitals
 
@@ -147,7 +149,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Medical Debt Collection Limits -- Medicaldebtrights
+## Medical Debt Collection Limits - Medicaldebtrights
 Source: https://medicaldebtrights.com/collection-limits.html
 
 Medical Debt Collection Limits
@@ -156,9 +158,11 @@ What Collectors Can and Cannot Do With Medical Bills
 
 ← Back to medicaldebtrights.com
 
+Home›Medical Debt Collection Limits | medicaldebtrights.com›Medical Debt Collection Limits
+
 FDCPA Protections Apply
 
-When medical debt is sold to or placed with a third-party collection agency, all FDCPA protections apply. The collector must validate the debt, respect cease and desist requests, avoid harassment, and follow all FDCPA rules. Medical debt collectors are among the most frequent FDCPA violators -- document every contact.
+When medical debt is sold to or placed with a third-party collection agency, all FDCPA protections apply. The collector must validate the debt, respect cease and desist requests, avoid harassment, and follow all FDCPA rules. Medical debt collectors are among the most frequent FDCPA violators - document every contact.
 
 Hospital Collection Practices
 
@@ -288,7 +292,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Medical Debt Credit Reporting Rules -- Medicaldebtrights
+## Medical Debt Credit Reporting Rules - Medicaldebtrights
 Source: https://medicaldebtrights.com/credit-reporting-rules.html
 
 Medical Debt Credit Reporting Rules
@@ -296,6 +300,8 @@ Medical Debt Credit Reporting Rules
 What Can and Cannot Appear on Your Credit Report
 
 ← Back to medicaldebtrights.com
+
+Home›Medical Debt Credit Reporting Rules | medicaldebtrights.com›Medical Debt Credit Reporting Rules
 
 Current Rules (2023+)
 
@@ -321,7 +327,7 @@ The threshold is based on the balance reported to the credit bureau. If the orig
 
 How often should I check my credit report for medical debt?
 
-At least annually, and more often if you have recent medical bills. You can get free weekly reports from annualcreditreport.com. Check all three bureaus -- they may have different information.
+At least annually, and more often if you have recent medical bills. You can get free weekly reports from annualcreditreport.com. Check all three bureaus - they may have different information.
 
 Can a medical collection reappear after being removed?
 
@@ -429,7 +435,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Disputing Medical Bills -- Medicaldebtrights
+## Disputing Medical Bills - Medicaldebtrights
 Source: https://medicaldebtrights.com/dispute-process.html
 
 Disputing Medical Bills
@@ -437,6 +443,8 @@ Disputing Medical Bills
 Step-by-Step Guide to Challenging Incorrect Charges
 
 ← Back to medicaldebtrights.com
+
+Home›Disputing Medical Bills | medicaldebtrights.com›Disputing Medical Bills
 
 Step 1: Get Full Documentation
 
@@ -570,7 +578,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Fair Medical Billing Practices -- Medicaldebtrights
+## Fair Medical Billing Practices - Medicaldebtrights
 Source: https://medicaldebtrights.com/fair-billing.html
 
 Fair Medical Billing Practices
@@ -578,6 +586,8 @@ Fair Medical Billing Practices
 Your Right to Accurate and Transparent Medical Bills
 
 ← Back to medicaldebtrights.com
+
+Home›Fair Medical Billing Practices | medicaldebtrights.com›Fair Medical Billing Practices
 
 Your Right to an Itemized Bill
 
@@ -599,7 +609,7 @@ Frequently Asked Questions
 
 Can a hospital charge whatever they want?
 
-Hospitals set their own charge master prices, but these prices are often far above what insurance actually pays. You have the right to transparent pricing, and you are not obligated to pay charge master prices -- negotiate based on fair market rates.
+Hospitals set their own charge master prices, but these prices are often far above what insurance actually pays. You have the right to transparent pricing, and you are not obligated to pay charge master prices - negotiate based on fair market rates.
 
 What if I find an error but the hospital refuses to correct it?
 
@@ -711,7 +721,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Medical Financial Assistance Programs -- Medicaldebtrights
+## Medical Financial Assistance Programs - Medicaldebtrights
 Source: https://medicaldebtrights.com/financial-assistance.html
 
 Medical Financial Assistance Programs
@@ -720,9 +730,11 @@ Beyond Charity Care: Every Program Available
 
 ← Back to medicaldebtrights.com
 
+Home›Medical Financial Assistance Programs | medicaldebtrights.com›Medical Financial Assistance Programs
+
 Hospital Financial Assistance
 
-Start with the hospital's financial assistance program (charity care). Nonprofit hospitals must offer this. For-profit hospitals often have similar programs. Apply even if you think you earn too much -- thresholds can be generous (up to 400% of federal poverty level at some hospitals). Applications can be submitted retroactively.
+Start with the hospital's financial assistance program (charity care). Nonprofit hospitals must offer this. For-profit hospitals often have similar programs. Apply even if you think you earn too much - thresholds can be generous (up to 400% of federal poverty level at some hospitals). Applications can be submitted retroactively.
 
 Medicaid and CHIP
 
@@ -730,7 +742,7 @@ If your income is below your state's Medicaid threshold, you may qualify for Med
 
 Patient Assistance Programs
 
-Pharmaceutical companies offer patient assistance programs (PAPs) for expensive medications. NeedyMeds.org, RxAssist.org, and manufacturer websites list available programs. These can provide free or deeply discounted medications -- savings of thousands per year. Some programs cover medical devices and supplies as well.
+Pharmaceutical companies offer patient assistance programs (PAPs) for expensive medications. NeedyMeds.org, RxAssist.org, and manufacturer websites list available programs. These can provide free or deeply discounted medications - savings of thousands per year. Some programs cover medical devices and supplies as well.
 
 Community Resources
 
@@ -740,7 +752,7 @@ Frequently Asked Questions
 
 Can I apply for multiple programs at once?
 
-Yes, and you should. Programs have different eligibility criteria and cover different needs. Apply for everything you might qualify for -- hospital charity care, Medicaid, patient assistance programs, and community resources simultaneously.
+Yes, and you should. Programs have different eligibility criteria and cover different needs. Apply for everything you might qualify for - hospital charity care, Medicaid, patient assistance programs, and community resources simultaneously.
 
 What if I do not qualify for any programs?
 
@@ -852,8 +864,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Medical Debt Rights -- Protection & Relief [2026] -- Medicaldebtrights
+## Medical Debt Rights - Protection & Relief [2026] - Medicaldebtrights
 Source: https://medicaldebtrights.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -863,7 +877,7 @@ Know Your Protections Before You Pay a Dime
 
 Medical Debt Is the Leading Cause of Bankruptcy
 
-An estimated 66.5% of all bankruptcies in the United States are tied to medical issues -- either the bills themselves or lost income from illness. But most people who owe medical debt have rights they never exercise, simply because no one tells them those rights exist.
+An estimated 66.5% of all bankruptcies in the United States are tied to medical issues - either the bills themselves or lost income from illness. But most people who owe medical debt have rights they never exercise, simply because no one tells them those rights exist.
 
 This page covers the federal and state protections available to you, whether you owe $500 or $500,000 in medical bills.
 
@@ -879,15 +893,15 @@ The No Surprises Act (Public Law 116-260, effective January 1, 2022) protects pa
 
 If you receive a surprise bill that violates the Act, you can file a complaint with the Centers for Medicare & Medicaid Services (CMS) at 1-800-985-3059.
 
-Hospital Charity Care -- The Right Most People Miss
+Hospital Charity Care - The Right Most People Miss
 
-Under 26 U.S.C. 501(r), every nonprofit hospital in the United States must maintain a financial assistance policy (commonly called charity care). This is not optional -- it is a condition of their tax-exempt status.
+Under 26 U.S.C. 501(r), every nonprofit hospital in the United States must maintain a financial assistance policy (commonly called charity care). This is not optional - it is a condition of their tax-exempt status.
 
 If your household income falls below a certain threshold (typically 200-400% of the federal poverty level, depending on the hospital), you may qualify for:
 
-Free care -- the entire bill is written off.
+Free care - the entire bill is written off.
 
-Reduced-cost care -- you pay a discounted amount, often 50-80% off.
+Reduced-cost care - you pay a discounted amount, often 50-80% off.
 
 Key facts most people do not know: You can apply for charity care retroactively, even after a bill has gone to collections. The hospital must make its financial assistance policy available in your language. The hospital cannot use extraordinary collection actions (lawsuits, liens, garnishment) without first making reasonable efforts to determine if you qualify.
 
@@ -957,7 +971,7 @@ Yes, hospitals and medical providers can sue for unpaid bills. However, many non
 
 What is hospital charity care?
 
-Nonprofit hospitals must maintain financial assistance policies (charity care) under 26 U.S.C. 501(r). If your income is below a certain threshold (often 200-400% of the federal poverty level), you may qualify for free or reduced-cost care -- even after a bill has been sent to collections.
+Nonprofit hospitals must maintain financial assistance policies (charity care) under 26 U.S.C. 501(r). If your income is below a certain threshold (often 200-400% of the federal poverty level), you may qualify for free or reduced-cost care - even after a bill has been sent to collections.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1042,7 +1056,7 @@ averagecreditcarddebt.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1176,6 +1190,7 @@ Exemptions by State
 Means Test
 Medical Bill Bankruptcy
 Student Loans
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1189,9 +1204,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Insurance Appeal Rights for Medical Bills -- Medicaldebtrights
+## Insurance Appeal Rights for Medical Bills - Medicaldebtrights
 Source: https://medicaldebtrights.com/insurance-appeals.html
 
 Insurance Appeal Rights for Medical Bills
@@ -1200,13 +1217,15 @@ How to Fight When Your Claim Is Denied
 
 ← Back to medicaldebtrights.com
 
+Home›Insurance Appeal Rights for Medical Bills | medicaldebtrights.com›Insurance Appeal Rights for Medical Bills
+
 Your Right to Appeal
 
 Under the ACA, you have the right to appeal any insurance claim denial through both internal and external review processes. Insurers must provide a clear explanation of why the claim was denied, including the specific plan provision and clinical rationale. You have at least 60 days for internal appeal and 4 months for external review after an adverse internal decision.
 
 Internal Appeal Process
 
-Step 1: Read the denial letter carefully -- it must explain the reason and your appeal rights. Step 2: Gather supporting documentation (medical records, physician letter of medical necessity, clinical guidelines). Step 3: Submit a written appeal within the deadline. Step 4: Your appeal must be reviewed by someone who was not involved in the original denial. Step 5: The insurer must respond within 30 days (72 hours for urgent care).
+Step 1: Read the denial letter carefully - it must explain the reason and your appeal rights. Step 2: Gather supporting documentation (medical records, physician letter of medical necessity, clinical guidelines). Step 3: Submit a written appeal within the deadline. Step 4: Your appeal must be reviewed by someone who was not involved in the original denial. Step 5: The insurer must respond within 30 days (72 hours for urgent care).
 
 External Review
 
@@ -1214,7 +1233,7 @@ If the internal appeal is denied, you can request an independent external review
 
 Tips for Successful Appeals
 
-Get a letter from your doctor explaining medical necessity. Cite the specific plan language and clinical guidelines that support coverage. Include relevant medical literature or peer-reviewed studies. Be specific about facts -- vague appeals fail. If the denial was based on 'experimental' or 'not medically necessary,' provide evidence that the treatment is standard of care.
+Get a letter from your doctor explaining medical necessity. Cite the specific plan language and clinical guidelines that support coverage. Include relevant medical literature or peer-reviewed studies. Be specific about facts - vague appeals fail. If the denial was based on 'experimental' or 'not medically necessary,' provide evidence that the treatment is standard of care.
 
 Frequently Asked Questions
 
@@ -1332,7 +1351,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## State Medical Debt Protections -- Medicaldebtrights
+## State Medical Debt Protections - Medicaldebtrights
 Source: https://medicaldebtrights.com/state-protections.html
 
 State Medical Debt Protections
@@ -1340,6 +1359,8 @@ State Medical Debt Protections
 Additional Rights Beyond Federal Law
 
 ← Back to medicaldebtrights.com
+
+Home›State Medical Debt Protections | medicaldebtrights.com›State Medical Debt Protections
 
 States Leading on Medical Debt Protection
 
@@ -1473,7 +1494,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Surprise Medical Billing Protections -- Medicaldebtrights
+## Surprise Medical Billing Protections - Medicaldebtrights
 Source: https://medicaldebtrights.com/surprise-billing.html
 
 Surprise Medical Billing Protections
@@ -1481,6 +1502,8 @@ Surprise Medical Billing Protections
 Federal and State Laws That Shield You
 
 ← Back to medicaldebtrights.com
+
+Home›Surprise Medical Billing Protections | medicaldebtrights.com›Surprise Medical Billing Protections
 
 The No Surprises Act (Federal)
 
@@ -1492,7 +1515,7 @@ Over 30 states have their own surprise billing laws, many of which predated the 
 
 When You Are NOT Protected
 
-The No Surprises Act does NOT protect you if: you voluntarily choose an out-of-network provider with proper advance notice (72 hours), you use a ground ambulance, you have a grandfathered health plan (rare), or the facility is not covered (some freestanding clinics). Also, the advance consent exception does not apply to emergency care -- you are always protected in emergencies.
+The No Surprises Act does NOT protect you if: you voluntarily choose an out-of-network provider with proper advance notice (72 hours), you use a ground ambulance, you have a grandfathered health plan (rare), or the facility is not covered (some freestanding clinics). Also, the advance consent exception does not apply to emergency care - you are always protected in emergencies.
 
 Fighting a Surprise Bill
 
@@ -1611,3 +1634,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - medicaldebtrights.com
+Source: https://medicaldebtrights.com/privacy.html
+
+medicaldebtrights.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
